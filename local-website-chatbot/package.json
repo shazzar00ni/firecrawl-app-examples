@@ -15,7 +15,7 @@
   "dependencies": {
     "@langchain/community": "^0.3.0",
     "@langchain/weaviate": "^0.0.4",
-    "@mendable/firecrawl-js": "^0.0.26",
+    "@mendable/firecrawl-js": "^1.23.0",
     "@mlc-ai/web-llm": "^0.2.42",
     "@types/node": "20.4.5",
     "@types/react": "18.2.17",
