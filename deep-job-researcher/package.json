@@ -20,7 +20,7 @@
     "formidable": "^3.5.4",
     "lucide-react": "^0.487.0",
     "motion": "^12.6.3",
-    "next": "15.2.4",
+    "next": "15.4.2",
     "openai": "^4.96.0",
     "pdf-parse": "^1.1.1",
     "pdfjs-dist": "^5.1.91",
