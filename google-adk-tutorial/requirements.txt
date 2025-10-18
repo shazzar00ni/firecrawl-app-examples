@@ -581,7 +581,7 @@ magika==0.6.1 \
     --hash=sha256:15838d2469f1394d8e9598bc7fceea1ede7f35aebe9675c6b45c6b5c48315931 \
     --hash=sha256:dadd036296a2e4840fd48fa0712848fe122da438e8f607dc8f19ca4663c359dc \
     --hash=sha256:e3dd22c73936630b1cd79d0f412d6d9a53dc99ba5e3709b1ac53f56bc998e635
-mammoth==1.9.0 \
+mammoth==1.11.0 \
     --hash=sha256:0eea277316586f0ca65d86834aec4de5a0572c83ec54b4991f9bb520a891150f \
     --hash=sha256:74f5dae10ca240fd9b7a0e1a6deaebe0aad23bc590633ef6f5e868aa9b7042a6
 markdownify==1.1.0 \
