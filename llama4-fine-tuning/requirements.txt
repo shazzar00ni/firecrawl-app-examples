@@ -510,9 +510,9 @@ jsonpatch==1.33 ; python_version >= "3.10" and python_version < "4.0" \
 jsonpointer==3.0.0 ; python_version >= "3.10" and python_version < "4.0" \
     --hash=sha256:13e088adc14fca8b6aa8177c044e12701e6ad4b28ff10e65f2267a90109c9942 \
     --hash=sha256:2b2d729f2091522d61c3b31f82e11870f60b68f43fbc705cb76bf4b832af59ef
-langchain-core==0.3.54 ; python_version >= "3.10" and python_version < "4.0" \
-    --hash=sha256:55ce38939038e19b1271f36f512335462d7f64057b531598b3651d2b403e1b42 \
-    --hash=sha256:cd42155d9089e2fd4695ee02a4b2bc6daf55b9d4e1a37639647cf2455ed4fa04
+langchain-core==0.3.80 ; python_version >= "3.10" and python_version < "4.0" \
+    --hash=sha256:2141e3838d100d17dce2359f561ec0df52c526bae0de6d4f469f8026c5747456 \
+    --hash=sha256:29636b82513ab49e834764d023c4d18554d3d719a185d37b019d0a8ae948c6bb
 langchain-text-splitters==0.3.8 ; python_version >= "3.10" and python_version < "4.0" \
     --hash=sha256:116d4b9f2a22dda357d0b79e30acf005c5518177971c66a9f1ab0edfdb0f912e \
     --hash=sha256:e75cc0f4ae58dcf07d9f18776400cf8ade27fadd4ff6d264df6278bb302f6f02
