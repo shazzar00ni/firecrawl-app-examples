@@ -4103,46 +4103,32 @@ kleur@^3.0.3:
   resolved "https://registry.yarnpkg.com/kleur/-/kleur-3.0.3.tgz#a79c9ecc86ee1ce3fa6206d1216c501f147fc07e"
   integrity sha512-eTIzlVOSUR+JxdDFepEYcBMtZ9Qqdef+rnzWdRZuMbOywu5tO2w2N7rqjoANZ5k9vywhL6Br1VRjUIgTQx4E8w==
 
-langchain@^0.3.3:
-  version "0.3.31"
-  resolved "https://registry.yarnpkg.com/langchain/-/langchain-0.3.31.tgz#7ce858c98ff4921ebf4f3a59d549bcddee9c4713"
-  integrity sha512-C7n7WGa44RytsuxEtGcArVcXidRqzjl6UWQxaG3NdIw4gIqErWoOlNC1qADAa04H5JAOARxuE6S99+WNXB/rzA==
+langchain@^0.3.37:
+  version "0.3.37"
+  resolved "https://registry.yarnpkg.com/langchain/-/langchain-0.3.37.tgz#6931ee5af763a6df35c0ac467eab028ba0ad17de"
+  integrity sha512-1jPsZ6xsxkcQPUvqRjvfuOLwZLLyt49hzcOK7OYAJovIkkOxd5gzK4Yw6giPUQ8g4XHyvULNlWBz+subdkcokw==
   dependencies:
     "@langchain/openai" ">=0.1.0 <0.7.0"
     "@langchain/textsplitters" ">=0.0.0 <0.2.0"
     js-tiktoken "^1.0.12"
     js-yaml "^4.1.0"
     jsonpointer "^5.0.1"
-    langsmith "^0.3.46"
+    langsmith "^0.3.67"
     openapi-types "^12.1.3"
     p-retry "4"
     uuid "^10.0.0"
     yaml "^2.2.1"
     zod "^3.25.32"
 
-langsmith@^0.3.46:
-  version "0.3.61"
-  resolved "https://registry.yarnpkg.com/langsmith/-/langsmith-0.3.61.tgz#546b09370a3d655ec10c99dcdb5a1b46b7bb996e"
-  integrity sha512-b7Cpfj3xpWQO41G3xXeG6uzPzBcWfkEo5cK62WOcTqsKCchN2i42z7q45QQrbU6mdLwXp6pjRfnvr7wFu+Y5iQ==
+langsmith@^0.3.64, langsmith@^0.3.67:
+  version "0.3.87"
+  resolved "https://registry.yarnpkg.com/langsmith/-/langsmith-0.3.87.tgz#f1c991c93a5d4d226a31671be7e4443b4b8673b1"
+  integrity sha512-XXR1+9INH8YX96FKWc5tie0QixWz6tOqAsAKfcJyPkE0xPep+NDz0IQLR32q4bn10QK3LqD2HN6T3n6z1YLW7Q==
   dependencies:
     "@types/uuid" "^10.0.0"
     chalk "^4.1.2"
     console-table-printer "^2.12.1"
     p-queue "^6.6.2"
-    p-retry "4"
-    semver "^7.6.3"
-    uuid "^10.0.0"
-
-langsmith@^0.3.64:
-  version "0.3.79"
-  resolved "https://registry.yarnpkg.com/langsmith/-/langsmith-0.3.79.tgz#6c845644da26e7fdd8e9b80706091669fc43bda4"
-  integrity sha512-j5uiAsyy90zxlxaMuGjb7EdcL51Yx61SpKfDOI1nMPBbemGju+lf47he4e59Hp5K63CY8XWgFP42WeZ+zuIU4Q==
-  dependencies:
-    "@types/uuid" "^10.0.0"
-    chalk "^4.1.2"
-    console-table-printer "^2.12.1"
-    p-queue "^6.6.2"
-    p-retry "4"
     semver "^7.6.3"
     uuid "^10.0.0"
 
@@ -6270,12 +6256,7 @@ zod-to-json-schema@^3.22.3, zod-to-json-schema@^3.23.0:
   resolved "https://registry.yarnpkg.com/zod-to-json-schema/-/zod-to-json-schema-3.23.1.tgz#5225925b8ed5fa20096bd99be076c4b29b53d309"
   integrity sha512-oT9INvydob1XV0v1d2IadrR74rLtDInLvDFfAa1CG0Pmg/vxATk7I2gSelfj271mbzeM4Da0uuDQE/Nkj3DWNw==
 
-zod@^3.22.4, zod@^3.23.8:
-  version "3.23.8"
-  resolved "https://registry.yarnpkg.com/zod/-/zod-3.23.8.tgz#e37b957b5d52079769fb8097099b592f0ef4067d"
-  integrity sha512-XBx9AXhXktjUqnepgTiE5flcKIYWi/rme0Eaj+5Y0lftuGBq+jyRu/md4WnuxqgP1ubdpNCsYEYPxrzVHD8d6g==
-
-zod@^3.25.32:
+zod@^3.22.4, zod@^3.23.8, zod@^3.25.32:
   version "3.25.76"
   resolved "https://registry.yarnpkg.com/zod/-/zod-3.25.76.tgz#26841c3f6fd22a6a2760e7ccb719179768471e34"
   integrity sha512-gzUt/qt81nXsFGKIFcC3YnfEAx5NkunCfnDlvuBSSFS02bcXu4Lmea0AFIUwbLWxWPx3d9p8S5QoaujKcNQxcQ==
