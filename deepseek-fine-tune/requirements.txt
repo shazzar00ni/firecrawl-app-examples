@@ -14,3 +14,4 @@ wandb
 
 # HuggingFace utilities
 huggingface-hub
+pyarrow>=19.0.0 # not directly required, pinned by Snyk to avoid a vulnerability and aligned with other projects
