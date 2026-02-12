@@ -129,8 +129,8 @@ dependencies:
     specifier: ^0.511.0
     version: 0.511.0(react@19.1.0)
   next:
-    specifier: 15.4.8
-    version: 15.4.8(react-dom@19.1.0)(react@19.1.0)
+    specifier: 15.4.10
+    version: 15.4.10(react-dom@19.1.0)(react@19.1.0)
   next-themes:
     specifier: ^0.4.6
     version: 0.4.6(react-dom@19.1.0)(react@19.1.0)
@@ -756,8 +756,8 @@ packages:
     dev: true
     optional: true
 
-  /@next/env@15.4.8:
-    resolution: {integrity: sha512-LydLa2MDI1NMrOFSkO54mTc8iIHSttj6R6dthITky9ylXV2gCGi0bHQjVCtLGRshdRPjyh2kXbxJukDtBWQZtQ==}
+  /@next/env@15.4.10:
+    resolution: {integrity: sha512-knhmoJ0Vv7VRf6pZEPSnciUG1S4bIhWx+qTYBW/AjxEtlzsiNORPk8sFDCEvqLfmKuey56UB9FL1UdHEV3uBrg==}
     dev: false
 
   /@next/eslint-plugin-next@15.3.2:
@@ -4560,8 +4560,8 @@ packages:
       react-dom: 19.1.0(react@19.1.0)
     dev: false
 
-  /next@15.4.8(react-dom@19.1.0)(react@19.1.0):
-    resolution: {integrity: sha512-jwOXTz/bo0Pvlf20FSb6VXVeWRssA2vbvq9SdrOPEg9x8E1B27C2rQtvriAn600o9hH61kjrVRexEffv3JybuA==}
+  /next@15.4.10(react-dom@19.1.0)(react@19.1.0):
+    resolution: {integrity: sha512-itVlc79QjpKMFMRhP+kbGKaSG/gZM6RCvwhEbwmCNF06CdDiNaoHcbeg0PqkEa2GOcn8KJ0nnc7+yL7EjoYLHQ==}
     engines: {node: ^18.18.0 || ^19.8.0 || >= 20.0.0}
     hasBin: true
     peerDependencies:
@@ -4581,7 +4581,7 @@ packages:
       sass:
         optional: true
     dependencies:
-      '@next/env': 15.4.8
+      '@next/env': 15.4.10
       '@swc/helpers': 0.5.15
       caniuse-lite: 1.0.30001718
       postcss: 8.4.31
