@@ -30,7 +30,7 @@
     "firecrawl": "^1.29.3",
     "node-cron": "^3.0.3",
     "node-fetch": "^2.6.9",
-    "openai": "^4.82.0",
+    "openai": "^4.104.0",
     "playht": "^0.13.0",
     "resend": "^4.0.1",
     "together-ai": "^0.31.1",
