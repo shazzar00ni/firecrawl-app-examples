@@ -157,7 +157,7 @@ charset-normalizer==3.4.2 \
     --hash=sha256:eba9904b0f38a143592d9fc0e19e2df0fa2e41c3c3745554761c5f6447eedabf \
     --hash=sha256:ef8de666d6179b009dce7bcb2ad4c4a779f113f12caf8dc77f0162c29d20490b \
     --hash=sha256:fcbe676a55d7445b22c10967bceaaf0ee69407fbe0ece4d032b6eb8d4565982a
-cryptography==44.0.3 \
+cryptography==46.0.5 \
     --hash=sha256:157f1f3b8d941c2bd8f3ffee0af9b049c9665c39d3da9db2dc338feca5e98a43 \
     --hash=sha256:192ed30fac1728f7587c6f4613c29c584abdc565d7417c13904708db10206645 \
     --hash=sha256:25cd194c39fa5a0aa4169125ee27d1172097857b27109a45fadc59653ec06f44 \
