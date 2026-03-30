@@ -47,7 +47,7 @@ jupyter_core==5.7.2
 jupyterlab_pygments==0.3.0
 langchain==0.3.17
 langchain-anthropic==0.3.5
-langchain-core==0.3.33
+langchain-core==1.2.22
 langchain-text-splitters==0.3.5
 langsmith==0.3.5
 markdown-it-py==3.0.0
@@ -62,7 +62,7 @@ nbconvert==7.16.6
 nbformat==5.10.4
 nest-asyncio==1.6.0
 numpy==1.26.4
-orjson==3.10.15
+orjson==3.11.6
 packaging==24.2
 pandas==2.2.3
 pandocfilters==1.5.1
@@ -89,7 +89,7 @@ pytz==2025.1
 PyYAML==6.0.2
 pyzmq==26.2.1
 referencing==0.36.2
-requests==2.32.3
+requests==2.33.0
 requests-toolbelt==1.0.0
 rich==13.9.4
 rpds-py==0.22.3
@@ -104,7 +104,7 @@ StrEnum==0.4.15
 tenacity==9.0.0
 tinycss2==1.4.0
 toml==0.10.2
-tornado==6.4.2
+tornado==6.5.5
 traitlets==5.14.3
 typing_extensions==4.12.2
 tzdata==2025.1
