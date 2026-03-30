@@ -659,9 +659,9 @@ pytz==2024.2 ; python_version >= "3.10" and python_version < "4.0" \
 referencing==0.36.1 ; python_version >= "3.10" and python_version < "4.0" \
     --hash=sha256:363d9c65f080d0d70bc41c721dce3c7f3e77fc09f269cd5c8813da18069a6794 \
     --hash=sha256:ca2e6492769e3602957e9b831b94211599d2aade9477f5d44110d2530cf9aade
-requests==2.32.3 ; python_version >= "3.10" and python_version < "4.0" \
-    --hash=sha256:55365417734eb18255590a9ff9eb97e9e1da868d4ccd6402399eaf68af20a760 \
-    --hash=sha256:70761cfe03c773ceb22aa2f671b4757976145175cdfca038c02654d061d6dcc6
+requests==2.33.0 ; python_version >= "3.10" and python_version < "4.0" \
+    --hash=sha256:3324635456fa185245e24865e810cecec7b4caf933d7eb133dcde67d48cee69b \
+    --hash=sha256:c7ebc5e8b0f21837386ad0e1c8fe8b829fa5f544d8df3b2253bff14ef29d7652
 rich==13.9.4 ; python_version >= "3.10" and python_version < "4.0" \
     --hash=sha256:439594978a49a09530cff7ebc4b5c7103ef57baf48d5ea3184f21d9a2befa098 \
     --hash=sha256:6049d5e6ec054bf2779ab3358186963bac2ea89175919d699e378b99738c2a90
