@@ -510,15 +510,15 @@ jsonpatch==1.33 ; python_version >= "3.10" and python_version < "4.0" \
 jsonpointer==3.0.0 ; python_version >= "3.10" and python_version < "4.0" \
     --hash=sha256:13e088adc14fca8b6aa8177c044e12701e6ad4b28ff10e65f2267a90109c9942 \
     --hash=sha256:2b2d729f2091522d61c3b31f82e11870f60b68f43fbc705cb76bf4b832af59ef
-langchain-core==0.3.54 ; python_version >= "3.10" and python_version < "4.0" \
-    --hash=sha256:55ce38939038e19b1271f36f512335462d7f64057b531598b3651d2b403e1b42 \
-    --hash=sha256:cd42155d9089e2fd4695ee02a4b2bc6daf55b9d4e1a37639647cf2455ed4fa04
+langchain-core==1.2.28 ; python_version >= "3.10" and python_version < "4.0" \
+    --hash=sha256:271a3d8bd618f795fdeba112b0753980457fc90537c46a0c11998516a74dc2cb \
+    --hash=sha256:80764232581eaf8057bcefa71dbf8adc1f6a28d257ebd8b95ba9b8b452e8c6ac
 langchain-text-splitters==0.3.8 ; python_version >= "3.10" and python_version < "4.0" \
     --hash=sha256:116d4b9f2a22dda357d0b79e30acf005c5518177971c66a9f1ab0edfdb0f912e \
     --hash=sha256:e75cc0f4ae58dcf07d9f18776400cf8ade27fadd4ff6d264df6278bb302f6f02
-langsmith==0.3.32 ; python_version >= "3.10" and python_version < "4.0" \
-    --hash=sha256:3d7b1149e9fbe0f388303bc94d8deeeb822acc89cdea34f24151ea1316eb487d \
-    --hash=sha256:d79af299038cd13db6d53f99fdc6a7171b731702536b7635f2da132555a6bebc
+langsmith==0.7.31 ; python_version >= "3.10" and python_version < "4.0" \
+    --hash=sha256:0291d49203f6e80dda011af1afda61eb0595a4d697adb684590a8805e1d61fb6 \
+    --hash=sha256:331ee4f7c26bb5be4022b9859b7d7b122cbf8c9d01d9f530114c1914b0349ffb
 markdown-it-py==3.0.0 ; python_version >= "3.10" and python_version < "4.0" \
     --hash=sha256:355216845c60bd96232cd8d8c40e8f9765cc86f46880e43a8fd22dc1a1a8cab1 \
     --hash=sha256:e3f60a94fa066dc52ec76661e37c851cb232d92f9886b15cb560aaada2df8feb
