@@ -49,14 +49,14 @@ jupyter_core==5.7.2
 jupyterlab_pygments==0.3.0
 langchain==0.3.17
 langchain-anthropic==0.3.5
-langchain-core==0.3.33
+langchain-core==1.3.3
 langchain-text-splitters==0.3.5
 langsmith==0.3.5
 markdown-it-py==3.0.0
 MarkupSafe==3.0.2
 matplotlib-inline==0.1.7
 mdurl==0.1.2
-mistune==3.1.1
+mistune==3.2.1
 multidict==6.1.0
 narwhals==1.25.0
 nbclient==0.10.2
@@ -71,7 +71,7 @@ pandocfilters==1.5.1
 parso==0.8.4
 pexpect==4.9.0
 pickleshare==0.7.5
-pillow==11.1.0
+pillow==12.2.0
 pipreqs==0.5.0
 platformdirs==4.3.6
 postgrest==0.19.3
@@ -115,7 +115,7 @@ tornado==6.4.2
 traitlets==5.14.3
 typing_extensions==4.12.2
 tzdata==2025.1
-urllib3==2.3.0
+urllib3==2.7.0
 wcwidth==0.2.13
 webencodings==0.5.1
 websockets==14.2
